@@ -1,5 +1,9 @@
 version: 2
 
+# Take the README.md file
+mkdocs:
+  configuration: mkdocs.yml
+
 formats:
  - epub   
  - pdf
